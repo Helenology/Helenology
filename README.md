@@ -1,9 +1,3 @@
-<style>
-img{
-    width: 50%;
-    padding-left: 20%;
-}
-</style>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helenology&show_icons=true&hide=contribs,prs?theme=buefy) -->
@@ -16,9 +10,11 @@ img{
  - 📫 How to reach me **helenology@163.com**
 - 🎀 Coding languanges: `python` and `R`.
   - 🏓 Everyday I just write bugs and then fix them.
-![Bugg Planter](pics/IMG_2674.JPG)
+- 🐰 Learn more about me: [Personal Site](https://helenology.github.io/)
 
-
+<div align="center">
+	<img src="pics/IMG_2674.JPG" alt="Editor" width="300">
+</div>
 
 
 
