@@ -6,11 +6,14 @@
 
 ### Hello World 👋
 
-- 🤍 I am currently a Stat Ph.D. at Peking University. My research interest is in *nonparametrics* and *mislabeling*.
+- 🤍 I am currently a Stat Ph.D. at Peking University. 
+- 🏔️ My research interest lies in:
+  - *Nonparametrics*, including *kernel density estimate*;
+  - *Labeling*, including *mislabeling* and *crowdsourcing*.
  - 📫 How to reach me **helenology@163.com**
-- 🎀 Coding languanges: `python` and `R`.
+- 🎀 Coding languanges: `python` and `R`; can read a little `C`, `C++`, `Matlab`.
   - 🏓 Everyday I just write bugs and then fix them.
-- 🐰 Learn more about me: [Personal Site](https://helenology.github.io/)
+- 🐰 If you want to learn more about me, please click [Personal Site](https://helenology.github.io/)!
 
 <div align="center">
 	<img src="pics/IMG_2674.JPG" alt="Editor" width="300">
