@@ -13,7 +13,7 @@
  - 📫 How to reach me **helenology@163.com**
 - 🎀 Coding languanges: `python` and `R`; can read a little `C`, `C++`, `Matlab`.
   - 🏓 Everyday I just write bugs and then fix them.
-- 🐰 If you want to learn more about me, please click [Personal Site](https://helenology.github.io/)!
+- 🐰 To learn more about me, please click [Personal Site](https://helenology.github.io/)!
 
 <div align="center">
 	<img src="pics/IMG_2674.JPG" alt="Editor" width="300">
