@@ -8,8 +8,10 @@
 
 - 🤍 I am currently a Stat Ph.D. at Peking University. 
 - 🏔️ My research interests focused on using appropriate statistical methodology to answer real application questions (or applied statistics). This includes but is not limited to:
-  - *Nonparametrics*, e.g., *kernel density estimate*;
-  - *Labeling*, e.g., *mislabeling* and *crowdsourcing*.
+	- Weakly supervised learning;
+	- Labeling, including _mislabeling_ and _crowdsourcing_;
+	- Medical imaging anaylsis;
+	- Nonparametrics, including _kernel density estimation_.
  - 📫 How to reach me **helenology@163.com**
 - 🎀 Coding languages: `python` and `R`; can read a little `C`, `C++`, and `Matlab`.
   - 🏓 Everyday I just write bugs and then fix them.
