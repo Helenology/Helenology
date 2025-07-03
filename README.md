@@ -6,12 +6,12 @@
 
 ### Hello World 👋
 
-- 🤍 I am currently a Stat Ph.D. at Peking University. 
-- 🏔️ My research interests focused on using appropriate statistical methodology to answer real application questions (or Applied Statistics).
- - 📫 How to reach me **helenology@163.com**
-- 🎀 Coding languages: `python` and `R`; can read a little `C`, `C++`, and `Matlab`.
-  - 🏓 Everyday I just write bugs and then fix them.
-- 🐰 To learn more about me, please click [Personal Site](https://helenology.github.io/)!
+- 🤍 I’m currently a postdoctoral researcher at the University of Michigan.
+- 🏔️ My research lies in **Applied Statistics**, with a focus on using appropriate statistical methodologies to solve real-world problems.
+ - 📫 Feel free to reach out at `helenology@163.com`.
+- 🎀 Coding languages: proficient in `Python` and `R`; familiar with `C`, `C++`, and `Matlab`.
+  - 🏓 Most days, I write bugs — and then fix them.
+- 🐰 Want to know more? Visit my [Personal Site](https://helenology.github.io/)!
 
 <div align="center">
 	<img src="pics/IMG_2674.JPG" alt="Editor" width="300">
