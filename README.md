@@ -8,7 +8,6 @@
 
 - 🤍 I’m currently a postdoctoral researcher at the University of Michigan.
 - 🏔️ My research lies in **Applied Statistics**, with a focus on using appropriate statistical methodologies to solve real-world problems.
- - 📫 Feel free to reach out at `helenology@163.com`.
 - 🎀 Coding languages: proficient in `Python` and `R`; familiar with `C`, `C++`, and `Matlab`.
   - 🏓 Most days, I write bugs — and then fix them.
 - 🐰 Want to know more? Visit my [Personal Site](https://helenology.github.io/)!
